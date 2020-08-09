@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello 👋, I am Maxime Mulder, a french student in its fifth year of IT engineering studies, I am also aiming to get a Canadian IT master degree next year.
+
+I like technology🛰, low and high level programming💻, movies🎥, video games🎮 and stuff.
+
+Well that's all, this README is quite boring right now, but I'll be sure to improve it in the future !
