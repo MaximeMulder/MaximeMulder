@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MaximeMulder/MaximeMulder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello 👋, I am Maxime Mulder, a french student in its fifth year of IT engineering studies, I am also aiming to get a Canadian IT master degree next year.
+### Hi there 👋
+
+My name is Maxime Mulder, and I am a french student in its fifth year of IT engineering studies. I am also aiming to get a Canadian IT master degree next year.
 
 I like technology🛰, low and high level programming💻, movies🎥, video games🎮 and stuff.
 
-Well that's all, this README is quite boring right now, but I'll be sure to improve it in the future !
+That's all for now, I know this README is quite currently boring, but I'll be sure to improve it in the future !
