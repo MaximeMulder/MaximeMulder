@@ -19,4 +19,4 @@ My name is Maxime Mulder, and I am a french student in its fifth year of IT engi
 
 I like technology🛰, low and high level programming💻, movies🎥, video games🎮 and stuff.
 
-That's all for now, I know this README is quite currently boring, but I'll be sure to improve it in the future !
+That's all for now, I know this README is currently quite boring, but I'll be sure to improve it in the future !
