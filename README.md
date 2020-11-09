@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 My name is Maxime Mulder, and I am a french student in its fifth year of IT engineering studies. I am also aiming to get a Canadian IT master degree next year.
 
-I like technology🛰, low and high level programming 💻, movies 🎥, video games 🎮 and stuff.
+I like technology 🛰, low and high level programming 💻, movies 🎥, video games 🎮 and stuff.
 
 That's all for now, I know this README is currently quite boring, but I'll be sure to improve it in the future !
