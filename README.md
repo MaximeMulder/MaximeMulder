@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Maxime Mulder, and I am a french student in its fifth year of IT engineering studies. I am also aiming to get a Canadian IT master degree next year.
+I am Maxime Mulder, a French software engineering student currently studying at UQAM in Montreal.
 
-I like technology 🛰, low and high level programming 💻, movies 🎥, video games 🎮 and stuff.
+During my scholar and professional cursus, I have worked on diverse projects such as full-stack web developpment or entreperise software programming.
 
-That's all for now, I know this README is currently quite boring, but I'll be sure to improve it in the future !
+While I liked all these projects, my favourite computer science domain is programming language design, which is why many of my repositories are interpreters :
+- [Leaf](https://github.com/MaximeMulder/LeafProject) is the first interpreter I ever wrote, it is a dynamically typed language created for my winter 2020 compilation classes.
+- [Lif](https://github.com/MaximeMulder/Lif) is another dynamically typed language and my main personnal project. If I have enough time, I would like to turn it into a statically typed toy programming language in the future.
+- Another language is coming soon, it will be statically typed and very cool !
+
+Outside of programming, I like technology🛰 in general, movies 🎥, video games 🎮 and other stuff, you can also follow me on [Twitter](https://twitter.com/MaximeMulder) if that interests you, although I must warn you I don't tweet very often.
+
+Have fun !
