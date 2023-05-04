@@ -24,6 +24,6 @@ While I worked on many projects such as entreprise software or full stack web de
 - The interpreter of my master's thesis is not yet open sourced, it is written in Java for a statically typed object-oriented language and integrates features such as multiple inheritance, generic typing or static evaluation.
 - I would like to implement a small functional language in OCaml. Hopefully it is coming soon.
 
-You can also find my CV [here](https://github.com/MaximeMulder/cv) (as previously mentionned) and a small website I made for a school project [here](https://github.com/MaximeMulder/greentech-website) (or [here](https://github.com/MaximeMulder/greentech-pages) for the deployed and buggy version).
+You can also find my CV [here](https://github.com/MaximeMulder/cv) (as previously mentionned) and a small website I made for a school project [here](https://github.com/MaximeMulder/greentech-website) (or go [here](https://maximemulder.github.io/greentech-pages/) for the deployed and buggy version).
 
 Thank you for reading !
