@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hello
 
-I am Maxime Mulder, a French software engineering student currently studying at UQAM in Montreal.
+I am Maxime Mulder, a French computer scientist currently looking for a PhD in Montreal. You can find my CV and its source code [here](https://github.com/MaximeMulder/cv) (it is made with a custom template that I like a lot !).
 
-During my scholar and professional cursus, I have worked on diverse projects such as full-stack web developpment or entreperise software programming.
+While I worked on many projects such as entreprise software or full stack web delopment, I found my passion in programming language studies. Therefore, most of my repositories are interpreters I developed throughout the years:
+- [Leaf](https://github.com/MaximeMulder/LeafProject) is the first interpreter I ever wrote, it is a dynamically typed imperative language I wrote in Java as a session project for my winter 2020 compilation course.
+- [Lif](https://github.com/MaximeMulder/lif) is essentially an improved version of Leaf. I wrote it in Rust in the end of 2020.
+- [Plis](https://github.com/MaximeMulder/plis) is an explicitly parallel instruction set and an associated virtual machine I wrote in Rust as a session project for my winter 2021 virtual machines course.
+- The interpreter of my master's thesis is not yet open sourced, it is written in Java for a statically typed object-oriented language and integrates features such as multiple inheritance, generic typing or static evaluation.
+- I would like to implement a small functional language in OCaml. Hopefully it is coming soon.
 
-While I liked all these projects, my favourite computer science domain is programming language design, which is why many of my repositories are interpreters :
-- [Leaf](https://github.com/MaximeMulder/LeafProject) is the first interpreter I ever wrote, it is a dynamically typed language created for my winter 2020 compilation classes.
-- [Lif](https://github.com/MaximeMulder/Lif) is another dynamically typed language and my main personnal project. If I have enough time, I would like to turn it into a statically typed toy programming language in the future.
-- Another language is coming soon, it will be statically typed and very cool !
+You can also find my CV [here](https://github.com/MaximeMulder/cv) (as previously mentionned) and a small website I made for a school project [here](https://github.com/MaximeMulder/greentech-website) (or [here](https://github.com/MaximeMulder/greentech-pages) for the deployed and buggy version).
 
-Outside of programming, I like technology🛰 in general, movies 🎥, video games 🎮 and other stuff, you can also follow me on [Twitter](https://twitter.com/MaximeMulder) if that interests you, although I must warn you I don't tweet very often.
-
-Have fun !
+Thank you for reading !
