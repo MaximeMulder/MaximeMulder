@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Maxime Mulder, a French computer scientist currently looking for a PhD in Montreal. You can find my CV and its source code [here](https://github.com/MaximeMulder/cv) (it is made with a custom template that I like a lot !).
 
-While I worked on many projects such as entreprise software or full stack web delopment, I found my passion in programming language studies. Therefore, most of my repositories are interpreters I developed throughout the years:
+While I worked on many projects such as entreprise software or full stack web development, I found my passion in programming language studies. Therefore, most of my repositories are interpreters I developed throughout the years:
 - [Leaf](https://github.com/MaximeMulder/leaf) is the first interpreter I ever wrote, it is a dynamically typed imperative language I wrote in Java as a session project for my winter 2020 compilation course.
 - [Lif](https://github.com/MaximeMulder/lif) is essentially an improved version of Leaf. I wrote it in Rust in the end of 2020.
 - [Plis](https://github.com/MaximeMulder/plis) is an explicitly parallel instruction set and an associated virtual machine I wrote in Rust as a session project for my winter 2021 virtual machines course.
