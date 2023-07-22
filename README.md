@@ -24,6 +24,6 @@ While I worked on many projects such as entreprise software or full stack web de
 - [Plis](https://github.com/MaximeMulder/plis) is an explicitly parallel instruction set and an associated virtual machine I wrote in Rust as a session project for my winter 2021 virtual machines course.
 - The interpreter of my master's thesis is not yet open sourced, it is written in Java for a statically typed object-oriented language and integrates features such as multiple inheritance, generic typing or static evaluation.
 
-You can also find my CV [here](https://github.com/MaximeMulder/cv) (as previously mentionned) and a small website I made for a school project [here](https://github.com/MaximeMulder/greentech-website) (or go [here](https://maximemulder.github.io/greentech-pages/) for the deployed and buggy version).
+You can also find my CV [here](https://github.com/MaximeMulder/cv) (as previously mentionned) and a small website I made for a school project [here](https://github.com/MaximeMulder/greentech-website) (or go [here](https://maximemulder.github.io/greentech-pages/) for the deployed version).
 
 Thank you for reading !
