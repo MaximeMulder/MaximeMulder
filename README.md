@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello
 
-I am Maxime Mulder, a French computer scientist currently looking for a PhD in Montreal. You can find my CV and its source code [here](https://github.com/MaximeMulder/cv) (it is made with a custom template that I like a lot !).
+I am Maxime Mulder, a French software engineer and computer scientist graduate. You can find my CV and its source code [here](https://github.com/MaximeMulder/cv) (it is made with a custom template that I like a lot !).
 
 While I worked on many projects such as entreprise software or full stack web development, I found my passion in programming language studies. Therefore, most of my repositories are interpreters I developed throughout the years:
 - [Clam](https://github.com/MaximeMulder/clam) is a statically typed small functional language written in OCaml, it incorporates many type features of System $F^ω_{<:}$.
